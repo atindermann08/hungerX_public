@@ -1,0 +1,27 @@
+{
+  "name": "public_html",
+  "version": "0.0.0",
+  "homepage": "https://github.com/atindermann08/hungerx_public",
+  "authors": [
+    "Atinderpal Singh <atindermann08@gmail.com>"
+  ],
+  "description": "angular based frontend for hungerx application",
+  "main": "index.php",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "angular",
+    "hungerx",
+    "hungerexpert"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
