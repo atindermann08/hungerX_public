@@ -27,5 +27,8 @@
   "devDependencies": {
     "materialize": "~0.94.2",
     "foundation": "zurb/bower-foundation#~5.5.0"
+  },
+  "dependencies": {
+    "materialize": "~0.95.0"
   }
 }
